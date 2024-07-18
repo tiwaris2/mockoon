@@ -48,7 +48,7 @@
     "@mockoon/commons": "8.3.0",
     "@mockoon/commons-server": "8.3.0",
     "@oclif/core": "3.26.4",
-    "@oclif/plugin-help": "6.0.21",
+    "@oclif/plugin-help": "6.2.6",
     "jsonfile": "6.1.0",
     "mkdirp": "3.0.1",
     "mustache": "4.2.0",
